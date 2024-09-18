@@ -82,7 +82,7 @@ for conf_name in confs_names:
         #template = str_head + template + str_foot
         template = str_head  + str_foot
 
-    file_output = open('../'+conf_name+'.conf', 'w', encoding='utf-8')
+    file_output = open('../nohome.conf', 'w', encoding='utf-8')
 
     marks = re.findall(r'{{(.+)}}', template)
 
