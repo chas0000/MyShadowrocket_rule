@@ -1,4 +1,4 @@
-#!url=https://github.com/chas0000/MyShadowrocket_rule/blob/release/sr_top500_banlist_ad.sgmodule
+#!url=https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/refs/heads/build/sr_top500_banlist_ad.sgmodule
 #!name=分流去广告模块
 #!desc=由Johnshall/Shadowrocket-ADBlock-Rules-Forever的sr_top500_banlist_ad转换而成的模块。
 # Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
