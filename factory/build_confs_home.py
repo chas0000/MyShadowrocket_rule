@@ -80,8 +80,9 @@ for conf_name in confs_names:
   
     if conf_name != 'sr_ad_only':
         template = str_head + template + str_foot
+        template = str_head + str_foot
 
-    file_output = open('../'+conf_name+'.conf', 'w', encoding='utf-8')
+    file_output = open('../gohome.conf', 'w', encoding='utf-8')
 
     marks = re.findall(r'{{(.+)}}', template)
 
