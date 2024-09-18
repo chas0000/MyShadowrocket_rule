@@ -7,5 +7,5 @@
 [EasyList China](https://adblockplus.org/)  
 [Peter Lowe 广告和隐私跟踪域名](https://pgl.yoyo.org/)   
 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
-[Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.comJohnshall/Shadowrocket-ADBlock-Rules-Forever) 
+[Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) 
 
