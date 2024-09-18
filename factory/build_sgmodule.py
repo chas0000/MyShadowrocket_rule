@@ -51,7 +51,7 @@ def getRulesStringFromFile(path, kind):
 
 
 # get head and foot
-str_head = open('template/sr_head.txt', 'r', encoding='utf-8').read()
+str_head = open('template/module_head.txt', 'r', encoding='utf-8').read()
 str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
 
 
@@ -78,8 +78,8 @@ for conf_name in confs_names:
     file_template = open('template/'+conf_name+'.txt', 'r', encoding='utf-8')
     template = file_template.read()
   
-    #if conf_name != 'sr_ad_only':
-    #    template = str_head + template + str_foot
+
+    template = str_head + template
 
     file_output = open('../'+conf_name+'.sgmodule', 'w', encoding='utf-8')
 
