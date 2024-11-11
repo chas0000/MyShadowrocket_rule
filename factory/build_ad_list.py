@@ -16,7 +16,7 @@ confs_names = [
     #'sr_proxy_banad',
     #'sr_cnip', 'sr_cnip_ad',
     #'sr_backcn', 'sr_backcn_ad',
-    'sr_loon_ad'
+    'loon_ad'
 ]
 
 
