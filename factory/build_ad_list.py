@@ -20,7 +20,7 @@ confs_names = [
 ]
 
 
-def getRulesStringFromFile(path, kind):
+def getRulesStringFromFile(path, kind=None):
     file = open(path, 'r', encoding='utf-8')
     contents = file.readlines()
     ret = ''
