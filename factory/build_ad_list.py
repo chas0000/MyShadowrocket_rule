@@ -16,11 +16,11 @@ confs_names = [
     #'sr_proxy_banad',
     #'sr_cnip', 'sr_cnip_ad',
     #'sr_backcn', 'sr_backcn_ad',
-    'sr_ad_only'
+    'sr_loon_ad'
 ]
 
 
-def getRulesStringFromFile(path, kind=None):
+def getRulesStringFromFile(path):
     file = open(path, 'r', encoding='utf-8')
     contents = file.readlines()
     ret = ''
@@ -67,7 +67,7 @@ values['ad'] = getRulesStringFromFile('resultant/ad.list')
 
 values['manual_direct'] = getRulesStringFromFile('manual_direct.txt', 'Direct')
 values['manual_proxy']  = getRulesStringFromFile('manual_proxy.txt', 'Proxy')
-values['manual_reject'] = getRulesStringFromFile('manual_reject.txt', 'Reject')
+values['manual_reject'] = getRulesStringFromFile('manual_reject.txt')
 
 values['gfwlist'] = getRulesStringFromFile('resultant/gfw.list', 'Proxy') \
                   + getRulesStringFromFile('manual_gfwlist.txt', 'Proxy')
