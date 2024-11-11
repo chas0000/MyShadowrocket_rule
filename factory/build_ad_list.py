@@ -59,18 +59,8 @@ str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
 values = {}
 
 values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
-
-values['top500_proxy']  = getRulesStringFromFile('resultant/top500_proxy.list', 'Proxy')
-values['top500_direct'] = getRulesStringFromFile('resultant/top500_direct.list', 'Direct')
-
 values['ad'] = getRulesStringFromFile('resultant/ad.list')
-
-values['manual_direct'] = getRulesStringFromFile('manual_direct.txt', 'Direct')
-values['manual_proxy']  = getRulesStringFromFile('manual_proxy.txt', 'Proxy')
 values['manual_reject'] = getRulesStringFromFile('manual_reject.txt')
-
-values['gfwlist'] = getRulesStringFromFile('resultant/gfw.list', 'Proxy') \
-                  + getRulesStringFromFile('manual_gfwlist.txt', 'Proxy')
 
 
 # make confs
