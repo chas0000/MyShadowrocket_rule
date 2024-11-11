@@ -8,4 +8,4 @@ python3 gfwlist.py
 python3 build_sgmodule.py
 python3 build_confs.py
 python3 build_confs_home.py
-cp resultant/ad.list /
+cp resultant/ad.list ../
