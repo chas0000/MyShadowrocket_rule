@@ -74,7 +74,7 @@ for conf_name in confs_names:
 
     file_output = open('../loon_ad.list', 'w', encoding='utf-8')
 
-    marks = re.findall(r'{{(.+)}}')
+    marks = re.findall(r'{{(.+)}}', template)
 
     for mark in marks:
         template = template.replace('{{'+mark+'}}', values[mark])
