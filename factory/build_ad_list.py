@@ -68,13 +68,13 @@ for conf_name in confs_names:
     file_template = open('template/'+conf_name+'.txt', 'r', encoding='utf-8')
     template = file_template.read()
   
-    if conf_name != 'sr_ad_only':
+    #if conf_name != 'sr_ad_only':
         #template = str_head + template + str_foot
-        template = str_head  + str_foot
+        #template = str_head  + str_foot
 
-    file_output = open('../ad.list', 'w', encoding='utf-8')
+    file_output = open('../loon_ad.list', 'w', encoding='utf-8')
 
-    marks = re.findall(r'{{(.+)}}', template)
+    marks = re.findall(r'{{(.+)}}')
 
     for mark in marks:
         template = template.replace('{{'+mark+'}}', values[mark])
