@@ -45,7 +45,7 @@ def getRulesStringFromFile(path):
             elif '.' not in content and len(content) > 1:
                 prefix = 'DOMAIN-KEYWORD'
 
-            ret += prefix + ',%s,%s\n' % (content)
+            ret += prefix + ',%s\n' % (content)
 
     return ret
 
