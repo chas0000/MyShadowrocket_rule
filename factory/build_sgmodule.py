@@ -79,7 +79,7 @@ for conf_name in confs_names:
     template = file_template.read()
   
 
-    template = str_head + template
+    #template = str_head + template
 
     file_output = open('../'+conf_name+'.sgmodule', 'w', encoding='utf-8')
 
