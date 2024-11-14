@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule
-#!name=分流去广告模块
-#!desc=由Johnshall/Shadowrocket-ADBlock-Rules-Forever的sr_top500_banlist_ad转换而成的模块。
+#!name=去广告模块
+#仅去广告
 # Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 # by Moshel and Johnshall
 # build time: UTC {{build_time}}
