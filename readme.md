@@ -13,7 +13,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 [白名单规则](#白名单过滤) |   |  
 [国内外划分 + 去广告](#国内外划分--广告) |  国外网站 | 中国网站
 [国内外划分](#国内外划分) |   |   |  
-[仅去广告规则](#[仅去广告规则](https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule)) |   |  
+[仅去广告规则](#https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule) |   |  
 
 
 
