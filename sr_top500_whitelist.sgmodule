@@ -6,7 +6,7 @@
 # 不包含广告过滤
 # Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 # by Moshel and Johnshall
-# build time: UTC 2024-11-14 10:07:42
+# build time: UTC 2024-11-14 10:09:13
 #!moduleurl=https://github.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist.sgmodule
 
 [General]
