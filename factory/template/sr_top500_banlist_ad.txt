@@ -1,7 +1,16 @@
-#
+#!url=https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist_ad.sgmodule
+#!name=黑名单去广告
 # 黑名单中包含了 GFWList 中定义的无法访问的网站，剩下的网站直连。
 # 包含广告过滤
-#
+#!desc=由Johnshall/Shadowrocket-ADBlock-Rules-Forever的sr_top500_banlist_ad转换而成的模块。
+# Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+# by Moshel and Johnshall
+# build time: UTC {{build_time}}
+#!moduleurl=https://github.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist_ad.sgmodule
+
+[General]
+
+[Rule]
 
 
 {{manual_proxy}}
