@@ -1,4 +1,18 @@
-#
+#!url=https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist.sgmodule
+#!name=白名单分流
+# 白名单中包含了境外网站中可以访问的那些，对不确定的网站则尽可能地代理。
+# 直连：top500 网站中可直连的境外网站、中国网站
+# 代理：默认代理其余的所有境外网站
+# 不包含广告过滤
+# Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+# by Moshel and Johnshall
+# build time: UTC {{build_time}}
+#!moduleurl=https://github.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist.sgmodule
+
+[General]
+
+[Rule]
+
 # 白名单中包含了境外网站中可以访问的那些，对不确定的网站则尽可能地代理。
 #
 # 直连：top500 网站中可直连的境外网站、中国网站
