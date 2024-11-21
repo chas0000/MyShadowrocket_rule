@@ -3,6 +3,6 @@
 #适用于mihomo，clash未测
 #
 payload:
-  {{manual_reject}}
+{{manual_reject}}
 
-  {{ad}}
+{{ad}}
