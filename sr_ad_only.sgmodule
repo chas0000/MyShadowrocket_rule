@@ -3,7 +3,7 @@
 #仅去广告
 # Best Shadowrocket Rules (https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 # by Moshel and Johnshall
-# build time: UTC 2024-11-21 01:48:38
+# build time: UTC 2024-11-21 01:48:43
 #!moduleurl=https://github.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule
 
 [General]
@@ -273,7 +273,7 @@ DOMAIN-SUFFIX,kikibt8.xyz,Reject
 DOMAIN-SUFFIX,pglstatp-toutiao.com,Reject
 
 
-# adblock rules refresh time: 2024-11-21 01:48:37
+# adblock rules refresh time: 2024-11-21 01:48:43
 DOMAIN-SUFFIX,003store.com,Reject
 DOMAIN-SUFFIX,00d3ed994e.com,Reject
 DOMAIN-SUFFIX,00d84987c0.com,Reject
