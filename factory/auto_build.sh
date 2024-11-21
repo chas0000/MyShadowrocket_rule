@@ -9,4 +9,4 @@ python3 build_sgmodule.py
 #python3 build_confs.py
 #python3 build_confs_home.py
 python3 build_ad_list.py
-build_mihomo_ad.py
+python3 build_mihomo_ad.py
