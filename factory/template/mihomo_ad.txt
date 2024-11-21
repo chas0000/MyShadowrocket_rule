@@ -1,0 +1,8 @@
+# build time: UTC {{build_time}}
+# 仅广告
+#适用于mihomo，clash未测
+#
+
+{{manual_reject}}
+
+{{ad}}
