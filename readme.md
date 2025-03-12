@@ -21,7 +21,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 - 直连：正常的网站
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist_ad.sgmodule>
+规则地址：<shadowrocket://install?module={https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist_ad.sgmodule}>
 
 
 ## 白名单过滤 + 广告
@@ -32,7 +32,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 - 代理：默认代理其余的所有境外网站
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist_ad.sgmodule>
+规则地址：<shadowrocket://install?module={https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist_ad.sgmodule}>
 
 
 ## 黑名单过滤
@@ -43,7 +43,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 - 直连：正常的网站
 - 不包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist.sgmodule>
+规则地址：<shadowrocket://install?module={https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_banlist.sgmodule}>
 
 ## 白名单过滤
 
@@ -53,7 +53,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 - 代理：默认代理其余的所有境外网站
 - 不包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist.sgmodule>
+规则地址：<shadowrocket://install?module={https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_top500_whitelist.sgmodule}>
 
 
 ## 仅去广告规则
@@ -62,7 +62,7 @@ Fork Johnshall/Shadowrocket-ADBlock-Rules-Forever 制作的模块
 
 - 仅包含去广告规则，不包含代理/直连规则。无任何其他配置。
 
-规则地址：<https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule>
+规则地址：<shadowrocket://install?module={https://raw.githubusercontent.com/chas0000/MyShadowrocket_rule/release/sr_ad_only.sgmodule}>
 
 
 
